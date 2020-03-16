@@ -10,8 +10,17 @@ A história do jogo é narrada em uma dimensão fictícia chamada IGFE. A narrat
 ## Interfaces
 
 ### Autenticação e Início
+<p align="center">
+  <img src="/public/auth.PNG">
+  <img src="/public/home.PNG">
+</p>  
 
 ### Cartas
+<p align="center">
+  <img src="/public/card-one.PNG">
+  <img src="/public/card-two.PNG">
+  <img src="/public/card-three.PNG">
+</p> 
 
 ## Tecnologias utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -21,6 +30,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 * *[Materialize](https://materializecss.com/)*
 
 ## Colaboradores - Team The Aurhours
-* *[Carlos Henrique](https://github.com/caarloshenrique)* Desenvolvedor
-* *[Nathalia Cosim](https://github.com/nathaliacosim)* Designer
-* *[André Violin](https://github.com/andre-violin)* Orientador
+* *[Carlos Henrique](https://github.com/caarloshenrique)* - Desenvolvedor
+* *[Nathalia Cosim](https://github.com/nathaliacosim)* - Designer
+* *[André Violin](https://github.com/andre-violin)* - Orientador
