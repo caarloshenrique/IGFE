@@ -11,15 +11,15 @@ A história do jogo é narrada em uma dimensão fictícia chamada IGFE. A narrat
 
 ### Autenticação e Início
 <p align="center">
-  <img src="/public/auth.PNG">
-  <img src="/public/home.PNG">
+  <img width="300" height="600" src="/public/auth.PNG">
+  <img width="300" height="600" src="/public/home.PNG">
 </p>  
 
 ### Cartas
 <p align="center">
-  <img src="/public/card-one.PNG">
-  <img src="/public/card-two.PNG">
-  <img src="/public/card-three.PNG">
+  <img width="300" height="600" src="/public/card-one.PNG">
+  <img width="300" height="600" src="/public/card-two.PNG">
+  <img width="300" height="600" src="/public/card-three.PNG">
 </p> 
 
 ## Tecnologias utilizadas
