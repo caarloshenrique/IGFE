@@ -25,11 +25,11 @@ A história do jogo é narrada em uma dimensão fictícia chamada IGFE. A narrat
 ## Tecnologias utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-* *[ReactJS](https://pt-br.reactjs.org/)*
-* *[Firebase](https://firebase.google.com/)*
-* *[Materialize](https://materializecss.com/)*
+* [ReactJS](https://pt-br.reactjs.org/)
+* [Firebase](https://firebase.google.com/)
+* [Materialize](https://materializecss.com/)
 
 ## Colaboradores - Team The Aurhours
-* *[Carlos Henrique](https://github.com/caarloshenrique)* - Desenvolvedor
-* *[Nathalia Cosim](https://github.com/nathaliacosim)* - Designer
-* *[André Violin](https://github.com/andre-violin)* - Orientador
+* [Carlos Henrique](https://github.com/caarloshenrique) - Desenvolvedor
+* [Nathalia Cosim](https://github.com/nathaliacosim) - Designer
+* [André Violin](https://github.com/andre-violin) - Orientador
