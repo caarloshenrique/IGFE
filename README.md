@@ -33,3 +33,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 * [Carlos Henrique](https://github.com/caarloshenrique) - Desenvolvedor
 * [Nathalia Cosim](https://github.com/nathaliacosim) - Designer
 * [André Violin](https://github.com/andre-violin) - Orientador
+
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :purple_heart: por <strong> The Aurhours </strong> </p>
