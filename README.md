@@ -30,13 +30,6 @@ O projeto foi feito utilizando as seguintes tecnologias:
   <img width="300" height="600" src="/public/card-three.PNG">
 </p> 
 
-## Tecnologias utilizadas
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-* [ReactJS](https://pt-br.reactjs.org/)
-* [Firebase](https://firebase.google.com/)
-* [Materialize](https://materializecss.com/)
-
 ## Colaboradores - Team The Aurhours
 * [Carlos Henrique](https://github.com/caarloshenrique) - Desenvolvedor
 * [Nathalia Cosim](https://github.com/nathaliacosim) - Designer
