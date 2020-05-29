@@ -7,6 +7,14 @@ O objetivo do presente projeto é desenvolver um jogo educativo e interdisciplin
 ## História geral
 A história do jogo é narrada em uma dimensão fictícia chamada IGFE. A narrativa foca na vida de quatro personagens (Clio: a ampulheta, Darwin: o DNA, Kelvin: o átomo e Ptolomeu: a bússola), que acabaram caindo misteriosamente nessa dimensão. Desde então, a missão do usuário jogador consiste em reunir esses personagens, tendo que completar para isso vários desafios interdisciplinares, para que juntos eles possam usar suas habilidades e voltar para seus mundos e assim desvendar os mistério do porquê foram parar naquela dimensão mágica.
 
+## :rocket: Tecnologias utilizadas 
+
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [ReacJS](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+{...}
+
 ## Interfaces
 
 ### Autenticação e Início
