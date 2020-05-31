@@ -17,7 +17,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 ## :iphone: Interfaces
 
-### Autenticação e Início
+### :house: Autenticação e Início
 <p align="center">
   <img width="300" height="600" src="/public/auth.PNG">
   <img width="300" height="600" src="/public/home.PNG">
