@@ -15,7 +15,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 {...}
 
-## Interfaces
+## :iphone: Interfaces
 
 ### Autenticação e Início
 <p align="center">
@@ -30,7 +30,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
   <img width="300" height="600" src="/public/card-three.PNG">
 </p> 
 
-## Colaboradores - Team The Aurhours
+## :busts_in_silhouette: Colaboradores - Team The Aurhours
 * [Carlos Henrique](https://github.com/caarloshenrique) - Desenvolvedor
 * [Nathalia Cosim](https://github.com/nathaliacosim) - Designer
 * [André Violin](https://github.com/andre-violin) - Orientador
