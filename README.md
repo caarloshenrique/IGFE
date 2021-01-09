@@ -19,8 +19,8 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 ### :house: Autenticação e Início
 <p align="center">
-  <img width="300" height="600" src="/public/auth.PNG">
-  <img width="300" height="600" src="/public/home.PNG">
+  <img width="280" height="600" src="/public/auth.PNG">
+  <img width="280" height="600" src="/public/home.PNG">
 </p>  
 
 ### :flower_playing_cards: Cartas
